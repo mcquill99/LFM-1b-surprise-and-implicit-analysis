@@ -1,1 +1,4 @@
-data/*
+data/high_main_users.txt
+data/low_main_users.txt
+data/medium_main_users.txt
+data/user_events.txt
